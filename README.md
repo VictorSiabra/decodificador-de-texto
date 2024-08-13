@@ -1,4 +1,4 @@
-Instruções para Usar o Aplicativo de Decodificação
+📚Instruções para Usar o Aplicativo de Decodificação
 
 Acessando o Aplicativo
 
@@ -11,7 +11,7 @@ Primeiro, abra o aplicativo de decodificação no seu navegador. Ele é uma pág
 Entendendo o Objetivo
 O aplicativo permite que você criptografe e decodifique textos com base em uma lista específica de substituições de letras. Essas substituições transformam palavras comuns em palavras codificadas.
 
-Como Funciona a Criptografia
+✨ Como Funciona a Criptografia
 Aqui está a lista de substituições usada para a criptografia:
 
 A letra "e" é convertida para "enter"
@@ -42,7 +42,7 @@ Após codificar ou decodificar, você pode facilmente copiar o texto resultante 
 
 Tecnologias Utilizadas
 
-Este projeto foi desenvolvido utilizando:
+🛠Este projeto foi desenvolvido utilizando:
 
 JavaScript: para a lógica de criptografia e decodificação.
 
