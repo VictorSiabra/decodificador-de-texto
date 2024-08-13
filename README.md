@@ -4,6 +4,10 @@ Acessando o Aplicativo
 
 Primeiro, abra o aplicativo de decodificação no seu navegador. Ele é uma página web criada com HTML, CSS e JavaScript.
 
+
+![image](https://github.com/user-attachments/assets/589cbdc5-c850-499a-9757-2b2bdf97caab)
+
+
 Entendendo o Objetivo
 O aplicativo permite que você criptografe e decodifique textos com base em uma lista específica de substituições de letras. Essas substituições transformam palavras comuns em palavras codificadas.
 
