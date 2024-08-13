@@ -11,10 +11,15 @@ Como Funciona a Criptografia
 Aqui está a lista de substituições usada para a criptografia:
 
 A letra "e" é convertida para "enter"
+
 A letra "i" é convertida para "imes"
+
 A letra "a" é convertida para "ai"
+
 A letra "o" é convertida para "ober"
+
 A letra "u" é convertida para "ufat"
+
 Por exemplo, a palavra "gato" seria criptografada como "gaitober".
 
 Codificando um Texto
