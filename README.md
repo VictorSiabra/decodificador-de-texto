@@ -18,18 +18,25 @@ A letra "u" é convertida para "ufat"
 Por exemplo, a palavra "gato" seria criptografada como "gaitober".
 
 Codificando um Texto
+
 Digite ou cole o texto que deseja criptografar na área de entrada.
+
 Clique no botão de "Codificar". O texto será convertido utilizando as substituições acima e o resultado aparecerá em uma caixa de saída.
 Decodificando um Texto
+
 Da mesma forma, você pode decodificar um texto criptografado. Digite ou cole o texto criptografado na área de entrada.
+
 Clique no botão de "Decodificar". O texto será revertido para o original, e o resultado aparecerá na caixa de saída.
 Copiando o Texto
+
 Após codificar ou decodificar, você pode facilmente copiar o texto resultante para usar onde precisar. Basta clicar no botão de "Copiar".
 
 Tecnologias Utilizadas
+
 Este projeto foi desenvolvido utilizando:
 
 JavaScript: para a lógica de criptografia e decodificação.
+
 CSS: para o estilo da página.
 HTML: para a estrutura da página.
 Agora você está pronto para utilizar o aplicativo de decodificação e explorar suas funcionalidades!
